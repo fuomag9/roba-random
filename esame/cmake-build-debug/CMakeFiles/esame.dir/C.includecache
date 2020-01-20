@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fuomag9/Documents/Dev/roba-random/esame/defs.h
+stddef.h
+-
+
+C:/Users/fuomag9/Documents/Dev/roba-random/esame/main.c
+windows.h
+-
+defs.h
+C:/Users/fuomag9/Documents/Dev/roba-random/esame/defs.h
+stdarg.h
+-
+stdio.h
+-
+stdlib.h
+-
+corecrt_wstdio.h
+-
+

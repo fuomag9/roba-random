@@ -1,0 +1,3 @@
+C:/Users/fuomag9/Documents/Dev/roba-random/esame/cmake-build-debug/CMakeFiles/esame.dir
+C:/Users/fuomag9/Documents/Dev/roba-random/esame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fuomag9/Documents/Dev/roba-random/esame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
