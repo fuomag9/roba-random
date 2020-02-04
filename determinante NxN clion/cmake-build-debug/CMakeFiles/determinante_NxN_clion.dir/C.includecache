@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fuomag9/Documents/Dev/roba-random/determinante NxN clion/functions.c
+functions.h
+C:/Users/fuomag9/Documents/Dev/roba-random/determinante NxN clion/functions.h
+
+C:/Users/fuomag9/Documents/Dev/roba-random/determinante NxN clion/functions.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/fuomag9/Documents/Dev/roba-random/determinante NxN clion/funzioni.h
+corecrt_wstdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/fuomag9/Documents/Dev/roba-random/determinante NxN clion/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+stdbool.h
+-
+string.h
+-
+funzioni.h
+C:/Users/fuomag9/Documents/Dev/roba-random/determinante NxN clion/funzioni.h
+functions.h
+C:/Users/fuomag9/Documents/Dev/roba-random/determinante NxN clion/functions.h
+

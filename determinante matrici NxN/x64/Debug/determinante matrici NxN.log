@@ -1,0 +1,7 @@
+﻿  determinante matrici NxN.c
+C:\Users\fuomag9\Documents\Dev\roba-random\determinante matrici NxN\determinante matrici NxN.c(20,26): error C2057: prevista espressione costante
+C:\Users\fuomag9\Documents\Dev\roba-random\determinante matrici NxN\determinante matrici NxN.c(20,26): error C2466: impossibile allocare una matrice di dimensione costante 0
+C:\Users\fuomag9\Documents\Dev\roba-random\determinante matrici NxN\determinante matrici NxN.c(20,43): error C2057: prevista espressione costante
+C:\Users\fuomag9\Documents\Dev\roba-random\determinante matrici NxN\determinante matrici NxN.c(20,43): error C2466: impossibile allocare una matrice di dimensione costante 0
+C:\Users\fuomag9\Documents\Dev\roba-random\determinante matrici NxN\determinante matrici NxN.c(20,43): error C2087: 'banana': indice mancante
+C:\Users\fuomag9\Documents\Dev\roba-random\determinante matrici NxN\determinante matrici NxN.c(20,44): error C2133: 'banana': dimensione sconosciuta

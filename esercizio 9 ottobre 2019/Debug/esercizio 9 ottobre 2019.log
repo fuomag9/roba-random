@@ -1,0 +1,4 @@
+﻿  Origine.c
+C:\Users\fuomag9\Documents\Dev\roba-random\esercizio 9 ottobre 2019\Origine.c(17,10): warning C4477: 'scanf_s': con la stringa di formato '%c' è necessario un argomento di tipo 'char *', ma il tipo dell'argomento variadic 1 è 'int *'
+C:\Users\fuomag9\Documents\Dev\roba-random\esercizio 9 ottobre 2019\Origine.c(17,10): message : questo argomento viene usato da un identificatore di conversione
+  esercizio 9 ottobre 2019.vcxproj -> C:\Users\fuomag9\Documents\Dev\roba-random\esercizio 9 ottobre 2019\Debug\esercizio 9 ottobre 2019.exe
